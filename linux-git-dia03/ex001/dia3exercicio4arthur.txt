@@ -1,0 +1,17 @@
+1. cd projetos/calculadora_python && vim calculadora.py
+2. *Dentro do Vim*:
+	def soma(a, b):
+	    return a + b
+3. git add . && git commit -m "Adicionei a função de soma"
+4. vim calculadora.py
+5. *Dentro do Vim*:
+	def multiplicacao(a, b):
+	    c+b=4
+	    return a * b
+6. git add . && git commit -m "Adicionei a função de multiplicação"
+7. *Dentro do Vim*:
+	def multiplicacao(a, b):
+	    return a * b
+8. git add . && git commit -m "Correção de bug na função de multiplicação"
+9. git push -u origin main
+
