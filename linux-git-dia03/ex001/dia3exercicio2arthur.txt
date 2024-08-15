@@ -1,0 +1,4 @@
+1. cd projetos/calculadora_python
+2. echo "Este é um projeto de uma calculadora em Python que realiza operações básicas." >> README.md
+3. git add . && git comit -m "Adicionei o arquivo README do repositório"
+
