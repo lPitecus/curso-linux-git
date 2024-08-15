@@ -1,0 +1,4 @@
+1. mkdir projetos
+2. cd projetos && mkdir calculadora_python
+3. cd calculadora_python && git init
+4. ls -a
