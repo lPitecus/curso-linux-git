@@ -1,0 +1,3 @@
+O comando uname mostra informações sobre o sistema operacional e o hardware do seu computador, como o nome do kernel, versão, arquitetura, etc. É útil para verificar se você está executando a versão correta do Linux para um determinado software.
+O comando df exibe o espaço em disco usado e disponível em seus sistemas de arquivos (partições, discos rígidos, etc.). É útil para verificar se você está ficando sem espaço e precisa liberar alguns arquivos.
+O comando free mostra a quantidade de memória RAM (memória de acesso aleatório) utilizada e disponível no seu sistema. Isso pode ajudar a identificar se você precisa de mais memória ou se um programa está consumindo muita memória RAM.

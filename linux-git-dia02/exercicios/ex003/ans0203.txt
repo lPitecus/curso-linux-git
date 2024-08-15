@@ -1,0 +1,8 @@
+Comando para inserir a saída desejada: alias meuls='ls -l -a -h -t --color'
+Onde:
+-ls é o comando original;
+-l serve para colocar a saída em formato de tabela;
+-a serve para mostrar os dotfiles;
+-h serve para deixar os tamanhos de arquivos humanamente legíveis;
+-t ordena os arquivos por data de modificação;
+--color colore a saída.

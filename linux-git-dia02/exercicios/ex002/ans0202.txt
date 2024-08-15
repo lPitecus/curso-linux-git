@@ -1,0 +1,5 @@
+Passo 1: Baixar o arquivo .tar.gz do site do discord;
+Passo 2: Descompactar o arquivo baixado com o comando "tar -xf";
+Passo 3: Criar uma pasta uma pasta dentro do $HOME para ter os conteúdos do arquivo baixado;
+Passo 4: Copiar os arquivos da pasta descompactada para a pasta criada no passo 3;
+Passo 5: Appendar a pasta criada no passo 3 no $PATH com o comando export PATH=$PATH:$HOME/discord.
